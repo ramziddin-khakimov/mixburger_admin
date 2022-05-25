@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "590383268721",
+    "project_id": "mix-burger-885ca",
+    "storage_bucket": "mix-burger-885ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590383268721:android:9f506371083c07e309acd0",
+        "android_client_info": {
+          "package_name": "com.ramziddin.mixburger_riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590383268721-in5b5mgknfalpsr9mrb88mkpilg4r08j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0bJ-pZHmSWrdayMD58_ZutmCPU9sKKTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590383268721-in5b5mgknfalpsr9mrb88mkpilg4r08j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590383268721:android:71db305d780d6f7209acd0",
+        "android_client_info": {
+          "package_name": "com.ramziddin.mixburger_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590383268721-in5b5mgknfalpsr9mrb88mkpilg4r08j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0bJ-pZHmSWrdayMD58_ZutmCPU9sKKTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590383268721-in5b5mgknfalpsr9mrb88mkpilg4r08j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
